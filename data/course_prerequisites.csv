@@ -1,0 +1,12 @@
+course,specialization,required_course,subject,minimum_mark
+Machine Learning,Data Science,Programming Fundamentals,programming,60
+Machine Learning,Data Science,Mathematics for Computing,mathematics,50
+Data Mining,Data Science,Programming Fundamentals,programming,55
+Data Mining,Data Science,Database Fundamentals,database,50
+Advanced Networking,Networking,Networking Fundamentals,networking,60
+Advanced Networking,Networking,Security Fundamentals,security,50
+Cyber Security Fundamentals,Cyber Security,Security Fundamentals,security,60
+Cyber Security Fundamentals,Cyber Security,Networking Fundamentals,networking,50
+Advanced Database,Data Science,Database Fundamentals,database,60
+Software Architecture,Software Engineering,Programming Fundamentals,programming,65
+Software Architecture,Software Engineering,Database Fundamentals,database,50

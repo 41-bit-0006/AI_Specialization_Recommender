@@ -1,0 +1,11 @@
+Test ID,Test Description,Expected Result
+TC01,Select existing student,Student data loads correctly
+TC02,Enter valid marks,Marks accepted
+TC03,Enter valid GPA,GPA accepted
+TC04,Generate recommendation,Recommendation is displayed
+TC05,Change interest,Interest affects recommendation ranking
+TC06,Course prerequisite check,Only eligible courses are displayed
+TC07,Recommendation explanation,Important subjects and weights are displayed
+TC08,Download recommendation,CSV file downloads successfully
+TC09,Add new student,New student is saved successfully
+TC10,Run evaluation,System evaluation results are displayed

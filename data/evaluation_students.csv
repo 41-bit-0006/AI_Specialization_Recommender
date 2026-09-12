@@ -1,0 +1,21 @@
+student_name,programming,database,networking,security,mathematics,gpa,interest,expected_specialization
+Student 01,90,85,50,55,95,3.7,Data Science,Data Science
+Student 02,95,88,55,50,75,3.8,Software Engineering,Software Engineering
+Student 03,65,55,90,95,65,3.5,Cyber Security,Cyber Security
+Student 04,65,55,95,88,60,3.4,Networking,Networking
+Student 05,88,80,55,60,90,3.6,Data Science,Data Science
+Student 06,94,85,60,55,72,3.7,Software Engineering,Software Engineering
+Student 07,60,55,88,94,65,3.3,Cyber Security,Cyber Security
+Student 08,65,58,94,90,62,3.5,Networking,Networking
+Student 09,92,82,55,60,88,3.7,Data Science,Data Science
+Student 10,96,90,60,55,78,3.9,Software Engineering,Software Engineering
+Student 11,62,55,86,96,65,3.4,Cyber Security,Cyber Security
+Student 12,68,60,96,90,62,3.6,Networking,Networking
+Student 13,85,78,60,62,92,3.5,Data Science,Data Science
+Student 14,91,86,58,55,76,3.7,Software Engineering,Software Engineering
+Student 15,64,58,91,93,68,3.3,Cyber Security,Cyber Security
+Student 16,70,62,95,87,65,3.5,Networking,Networking
+Student 17,89,83,58,60,94,3.8,Data Science,Data Science
+Student 18,93,89,62,58,74,3.6,Software Engineering,Software Engineering
+Student 19,63,57,89,95,66,3.4,Cyber Security,Cyber Security
+Student 20,67,61,97,91,64,3.7,Networking,Networking

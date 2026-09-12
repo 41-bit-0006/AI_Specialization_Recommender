@@ -1,0 +1,12 @@
+course,specialization,subject,minimum_mark
+Machine Learning,Data Science,programming,60
+Machine Learning,Data Science,mathematics,50
+Data Mining,Data Science,programming,55
+Data Mining,Data Science,database,50
+Advanced Networking,Networking,networking,60
+Advanced Networking,Networking,security,50
+Cyber Security Fundamentals,Cyber Security,security,60
+Cyber Security Fundamentals,Cyber Security,networking,50
+Advanced Database,Data Science,database,60
+Software Architecture,Software Engineering,programming,65
+Software Architecture,Software Engineering,database,50

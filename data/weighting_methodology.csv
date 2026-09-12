@@ -1,0 +1,5 @@
+specialization,weighting_basis,description
+Data Science,Subject relevance,Higher weight given to Mathematics and Programming because they are important for data-oriented study
+Cyber Security,Subject relevance,Higher weight given to Security and Networking because they are important for security-oriented study
+Networking,Subject relevance,Higher weight given to Networking and Security because they are important for networking-oriented study
+Software Engineering,Subject relevance,Higher weight given to Programming and Database because they are important for software development
