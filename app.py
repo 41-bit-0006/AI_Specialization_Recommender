@@ -18,9 +18,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-# -----------------------------------------------------------------------------
-# UI THEME - simple blue/white academic prototype
-# -----------------------------------------------------------------------------
+# UI Styling
 st.markdown(
     """
     <style>
@@ -46,6 +44,7 @@ st.markdown(
 
     /* Hide Streamlit chrome that is not part of the student-facing UI. */
     [data-testid="stSidebar"] { display: none; }
+    [data-testid="stHeader"] { display: none;}
     #MainMenu { visibility: hidden; }
     footer { visibility: hidden; }
 
