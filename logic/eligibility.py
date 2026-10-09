@@ -18,5 +18,5 @@ def check_eligibility(course_prerequisites, student_marks, completed_courses=Non
                 f"{subject} requires {minimum_mark:.0f}, "
                 f"but your mark is {student_mark:.0f}"
             )
- return len(failed_requirements) == 0, failed_requirements
 
+    return len(failed_requirements) == 0, failed_requirements
