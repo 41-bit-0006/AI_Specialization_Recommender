@@ -1,3 +1,9 @@
+"""
+Tests for weighted specialization scoring logic.
+
+Verifies that calculate_scores returns correct results for all
+specializations and that final scores contain the expected fields.
+"""
 from logic.scoring import calculate_scores
 from logic.recommendation import calculate_final_scores
 
