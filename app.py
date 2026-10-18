@@ -530,7 +530,6 @@ def render_courses():
                 f"""
                 <div class='course-card'>
                     <div class='course-name'>{html.escape(course)}</div>
-                    <div class='eligible'>✓ Prerequisites satisfied</div>
                     <div class='prereq'>{html.escape(mark_text)}</div>
                 </div>
                 """,
